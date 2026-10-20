@@ -1,0 +1,6 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12624 | grep -E '"html_url"|"title"|"merged_at"|"full_name"'
+
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12624",
+"title": "Bug fix revert",
+"merged_at": null,
+"full_name": "viscodicis/mcino-Introduction-to-Git-and-GitHub"
