@@ -1,16 +1,7 @@
+
 $ git branch -avv
-  bug-fix-typo        422eb79 Fix typo
-* main                422eb79 [origin/main: ahead 1] Fix typo
+* bug-fix-revert      ed8f6e8 Fix typo in README
+  bug-fix-typo        ed8f6e8 Fix typo in README
+  main                ed8f6e8 [origin/main: ahead 2] Fix typo in README
   remotes/origin/HEAD -> origin/main
   remotes/origin/main b31e3b6 Update forked-repo
-
-$ git status
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        bug-fix-output.json
-
-nothing added to commit but untracked files present
